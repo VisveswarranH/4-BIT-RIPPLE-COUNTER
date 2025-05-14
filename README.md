@@ -94,7 +94,6 @@ end
 
 endmodule
 ```
- Developed by:visveswarran H RegisterNumber: 212224110063
 */
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
